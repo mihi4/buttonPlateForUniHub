@@ -1,2 +1,2 @@
 # buttonPlateForUniHub
-DIY Buttonplate for the Fanatec Universal Hub with a OMP 330mm wheel
+DIY Buttonplates for the Fanatec Universal Hub with an OMP 330mm wheel or a Sparco P104 Limite (clone)
